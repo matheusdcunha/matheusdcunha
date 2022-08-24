@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <br>**JavaScript, HTML and CSS**
 
-- 📫 How to reach me **matheus.cunha.fonseca50@gmail.com**
+- 📫 How to reach me <br>**matheus.cunha.fonseca50@gmail.com**
 
 - ⚡ Fun fact <br>**I'm crazy about installing new operating systems, every 3 months I try to test a new one. Another fact about me, I studied History at the University of the State of Rio de Janeiro - UERJ**
 
