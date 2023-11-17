@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/matheusfonsecaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheusfonsecaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheusdcunha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusdcunha" height="30" width="40" /></a>
 <a href="https://fb.com/matheus.fonseca.904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheus.fonseca.904" height="30" width="40" /></a>
 <a href="https://instagram.com/matheusdcunha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheusdcunha" height="30" width="40" /></a>
