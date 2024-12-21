@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusdcunha&label=Profile%20views&color=0e75b6&style=flat" alt="matheusdcunha" /> </p>
 
-- 🌱 I’m currently learning <br>**React**
+- 🌱 I’m currently learning <br>**React**, **Nodejs**
 
 - 📫 How to reach me <br>**matheus.cunha.fonseca50@gmail.com**
 
-- ⚡ Fun fact <br>**I'm crazy about installing new operating systems, every 3 months I try to test a new one. Another fact about me, I studied History at the University of the State of Rio de Janeiro - UERJ**
+- ⚡ Fun facts <br>**I'm crazy about installing new operating systems, every 3 months I try to test a new one.** <br> **I studied History at the University of the State of Rio de Janeiro - UERJ**<br> I'm fascinated by Magic The Gathering competitive
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Matheus%20Cunha#7874) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/matheusdcunha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/matheusdcunha) 
