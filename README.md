@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <br>**DevOps**, **Nodejs**, **Go**
 
-- 📫 How to reach me <br>**matheus.cunha.fonseca50@gmail.com**
+- 📫 How to reach me <br>**contato@matheusdcunha.dev**
 
 - ⚡ Fun facts <br>**I'm crazy about installing new operating systems, every 3 months I try to test a new one.** <br> **I studied History at the University of the State of Rio de Janeiro - UERJ**<br>**I'm fascinated by Magic The Gathering competitive**
 
