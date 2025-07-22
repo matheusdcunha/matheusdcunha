@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <br> **Transforma Educação**
 
-- 🌱 I’m currently learning <br>**DevOps**, **Nodejs**, **Go**
+- 🌱 I’m currently learning <br>**DevOps**, **Nodejs**, **Python**
 
 - 📫 How to reach me <br>**contato@matheusdcunha.dev**
 
