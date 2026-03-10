@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,I'm <br> Matheus da Cunha</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusdcunha&label=Profile%20views&color=0e75b6&style=flat" alt="matheusdcunha" /> </p>
 
 - 🔭 I’m currently working on <br> **Transforma Educação**
 
-- 🌱 I’m currently learning <br>**Java**, **DevOps**, **Go**
+- 🌱 I’m currently learning <br>**Kubernetes**, **DevOps**, **Go**
 
 - 📫 How to reach me <br>**matheusdcunha.dev@gmail.com**
 
