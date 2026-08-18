@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <br> **Begen**
 
-- 🌱 I’m currently learning <br>**Go** & **Kubernetes**.
+- 🌱 I’m currently learning <br>**Go** & **Software Architecture**.
 
 - 📫 How to reach me <br>**matheusdcunha.dev@gmail.com**
 
